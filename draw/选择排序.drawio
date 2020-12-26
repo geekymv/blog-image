@@ -1,479 +1,479 @@
-<mxfile host="app.diagrams.net" modified="2020-12-26T15:55:34.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Lvlh1DMjxVBuRCMvCvDs" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-26T16:19:39.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m5kGJfpJIrDiYdBTCykw" version="14.0.4" type="github">
   <diagram id="QkxlJOI7-UR3o_yPASxC" name="Page-1">
-    <mxGraphModel dx="946" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="267" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;排序前&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="116" y="109.5" width="103" height="41" as="geometry" />
+          <mxGeometry x="122" y="59.5" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="334" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="403" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="467" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="538" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="606" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="55" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;第一趟排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="119" y="352" width="103" height="41" as="geometry" />
+          <mxGeometry x="125" y="302" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="228" y="216" width="33" height="318" as="geometry" />
+          <mxGeometry x="234" y="166" width="33" height="318" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-28" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffcccc;strokeColor=#ffcccc;" parent="1" vertex="1">
-          <mxGeometry x="267" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCCC;strokeColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="334" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="403" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="467" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="538" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4P8ZspTkv_Gmz2H3YIIO-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" parent="1" vertex="1">
-          <mxGeometry x="606" y="193" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="143" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-2" value="4和6比较，4比6小，则最小值为4 索引为0" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="203" width="308" height="23" as="geometry" />
+          <mxGeometry x="677" y="153" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffcccc;strokeColor=#ffcccc;" vertex="1" parent="1">
-          <mxGeometry x="267" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="334" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="403" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="467" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="538" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="606" y="257" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="207" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-9" value="4和3比较，4比3大，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="270.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="677" y="220.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="267" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="334" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="403" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="467" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="538" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="606" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="269" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-16" value="3和5比较，3比5小，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="332.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="677" y="282.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="267" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="334" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="403" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="467" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="538" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="606" y="382" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="332" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-23" value="3和2比较，3比2大，则最小值为2 索引为4" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="395.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="677" y="345.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="267" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="403" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="467" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-28" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="538" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="606" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="334" y="446" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="396" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-31" value="2和1比较，2比1大，则最小值为1 索引为5" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="459.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="677" y="409.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-32" value="&lt;span style=&quot;font-size: 14px&quot;&gt;1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;strokeColor=#E6FFCC;fillColor=#66b2ff;" vertex="1" parent="1">
-          <mxGeometry x="267" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="273" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="403" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="409" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="467" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="473" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="538" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="544" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-36" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="606" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="612" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="334" y="508" width="50" height="50" as="geometry" />
+          <mxGeometry x="340" y="458" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-38" value="1和4交换位置，1进入已排序区间" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="521.5" width="245" height="23" as="geometry" />
+          <mxGeometry x="677" y="471.5" width="245" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;第二趟排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="114" y="727.5" width="103" height="41" as="geometry" />
+          <mxGeometry x="120" y="677.5" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="619" width="31" height="258" as="geometry" />
+          <mxGeometry x="231" y="569" width="31" height="258" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="264" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="331" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="337" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="406" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="464" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-45" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="535" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="541" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-46" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="603" y="596" width="50" height="50" as="geometry" />
+          <mxGeometry x="609" y="546" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-47" value="6和3比较，6比3大，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="668" y="606" width="308" height="23" as="geometry" />
+          <mxGeometry x="674" y="556" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="264" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="331" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="337" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="406" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="464" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="535" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="541" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="603" y="660" width="50" height="50" as="geometry" />
+          <mxGeometry x="609" y="610" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-54" value="3和5比较，3比5小，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="668" y="673.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="674" y="623.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="264" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-56" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="331" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="337" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="406" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-58" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="464" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-59" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="535" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="541" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-60" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="603" y="722" width="50" height="50" as="geometry" />
+          <mxGeometry x="609" y="672" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-61" value="3和2比较，3比2大，则最小值为2 索引为4" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="668" y="735.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="674" y="685.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-62" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="264" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-63" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="331" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="337" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-64" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="400" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="406" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="464" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="535" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="541" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="603" y="785" width="50" height="50" as="geometry" />
+          <mxGeometry x="609" y="735" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-68" value="2和4比较，2比4小，则最小值为2 索引为4" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="668" y="798.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="674" y="748.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="264" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="270" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="400" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="406" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-71" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="464" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-72" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="535" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="541" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-73" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="603" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="609" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-74" value="&lt;span style=&quot;font-size: 14px&quot;&gt;2&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="331" y="849" width="50" height="50" as="geometry" />
+          <mxGeometry x="337" y="799" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-75" value="2和6交换，2进入已排序区间" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="862.5" width="213" height="23" as="geometry" />
+          <mxGeometry x="677" y="812.5" width="213" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-89" value="&lt;font style=&quot;font-size: 14px&quot;&gt;第三趟排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1048.5" width="103" height="41" as="geometry" />
+          <mxGeometry x="125" y="998.5" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="972" width="29" height="194" as="geometry" />
+          <mxGeometry x="236" y="922" width="29" height="194" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-91" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-92" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="336" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-93" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="405" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-94" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-95" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="540" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-96" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="608" y="949" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="899" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-97" value="3和5比较，3比5小，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="959" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="909" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-98" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-99" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-100" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-101" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-102" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-103" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1013" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="963" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-104" value="3和6比较，3比6小，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1026.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="976.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-105" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-106" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-107" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-108" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-109" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-110" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1075" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1025" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-111" value="3和4比较，3比4小，则最小值为3 索引为2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1088.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="1038.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-112" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-113" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-114" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-115" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-116" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-117" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1138" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1088" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-125" value="3和3交换，3进入已排序区间" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="671" y="1151.5" width="213" height="23" as="geometry" />
+          <mxGeometry x="677" y="1101.5" width="213" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-128" value="&lt;font style=&quot;font-size: 14px&quot;&gt;第四趟排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1306.5" width="103" height="41" as="geometry" />
+          <mxGeometry x="125" y="1256.5" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-129" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1261" width="27" height="131" as="geometry" />
+          <mxGeometry x="236" y="1211" width="27" height="131" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-130" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-131" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-132" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-133" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-134" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-135" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1238" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1188" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-136" value="5和6比较，5比6小，则最小值为5 索引为3" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1248" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="1198" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-137" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-138" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-139" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-140" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-141" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-142" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1302" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1252" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-143" value="5和4比较，5比4大，则最小值为4 索引为5" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1315.5" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="1265.5" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-144" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-145" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-146" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-147" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-148" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-149" value="&lt;span style=&quot;font-size: 14px&quot;&gt;5&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1364" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1314" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-157" value="4和5交换，4进入已排序区间" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1377.5" width="213" height="23" as="geometry" />
+          <mxGeometry x="679" y="1327.5" width="213" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-159" value="&lt;font style=&quot;font-size: 14px&quot;&gt;第五趟排序&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=1;sketch=0;fillColor=#ffe6cc;fontSize=16;strokeColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1495" width="103" height="41" as="geometry" />
+          <mxGeometry x="125" y="1445" width="103" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-160" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;shadow=0;glass=0;comic=1;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1481" width="27" height="69" as="geometry" />
+          <mxGeometry x="236" y="1431" width="27" height="69" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-161" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-162" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-163" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-164" value="&lt;span style=&quot;font-size: 14px&quot;&gt;4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-165" value="&lt;font style=&quot;font-size: 14px&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-166" value="&lt;span style=&quot;font-size: 14px&quot;&gt;5&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#ffcccc;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1458" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1408" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-167" value="6和5比较，6比5大，则最小值为5 索引为5" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1468" width="308" height="23" as="geometry" />
+          <mxGeometry x="679" y="1418" width="308" height="23" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-168" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="275" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-169" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="342" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-170" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="411" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-171" value="&lt;font style=&quot;font-size: 14px&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="469" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="475" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-172" value="&lt;span style=&quot;font-size: 14px&quot;&gt;5&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66b2ff;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="546" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-173" value="&lt;span style=&quot;font-size: 14px&quot;&gt;6&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6FFCC;strokeColor=#E6FFCC;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1522" width="50" height="50" as="geometry" />
+          <mxGeometry x="614" y="1472" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYFyeKSLu4O1qQirNEOv-181" value="5和6交换，5进入已排序区间" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1535.5" width="213" height="23" as="geometry" />
+          <mxGeometry x="679" y="1485.5" width="213" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
