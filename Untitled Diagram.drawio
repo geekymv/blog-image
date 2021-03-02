@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T14:43:23.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15" etag="xOU3_RcfogKXBQApg0VQ" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T15:49:31.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15" etag="9MZr-eukksBP1XXYPH9P" version="14.4.3" type="github">
   <diagram id="kRMEiG6FEtFIXxFh51ap" name="Page-1">
-    <mxGraphModel dx="946" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LgiU4rAeLp98CVP2x4YK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="146" y="123" width="486" height="274" as="geometry" />
+          <mxGeometry x="182" y="105" width="486" height="274" as="geometry" />
         </mxCell>
         <mxCell id="LgiU4rAeLp98CVP2x4YK-2" value="方法区&lt;br style=&quot;font-size: 14px;&quot;&gt;Method Area" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="174" y="168" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LgiU4rAeLp98CVP2x4YK-3" value="本地方法栈" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="491" y="168" width="120" height="60" as="geometry" />
+        <mxCell id="LgiU4rAeLp98CVP2x4YK-3" value="本地方法栈&lt;br&gt;Native Method Stack" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="509" y="151" width="138" height="59" as="geometry" />
         </mxCell>
         <mxCell id="LgiU4rAeLp98CVP2x4YK-4" value="堆&lt;br style=&quot;font-size: 14px;&quot;&gt;Heap" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="182" y="279" width="183" height="65" as="geometry" />
+          <mxGeometry x="210" y="261" width="183" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="LgiU4rAeLp98CVP2x4YK-5" value="程序计数器" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="430" y="284" width="120" height="60" as="geometry" />
+        <mxCell id="LgiU4rAeLp98CVP2x4YK-5" value="程序计数器&lt;br&gt;Program Counter Register" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="262" width="174" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="LgiU4rAeLp98CVP2x4YK-6" value="虚拟机栈" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="333" y="168" width="120" height="60" as="geometry" />
+        <mxCell id="LgiU4rAeLp98CVP2x4YK-6" value="虚拟机栈&lt;br&gt;VM Stack" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="369" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LgiU4rAeLp98CVP2x4YK-7" value="JVM 运行时数据区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;comic=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="66" width="163" height="40" as="geometry" />
+          <mxGeometry x="343.5" y="65" width="163" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
